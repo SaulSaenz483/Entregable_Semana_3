@@ -5,11 +5,11 @@
 Se plantea una clase base `Figura` que representa una figura geométrica general y tiene un método `calcularArea()`.  
 De esta clase heredan `Circulo` y `Rectangulo`, donde cada una implementa su propio cálculo del área según sus atributos.
 
-        Figura
-          |
-    --------------
-    |            |
-Circulo      Rectangulo
+                Figura
+                  |
+            --------------
+            |            |
+        Circulo      Rectangulo
 
 
 
